@@ -1,0 +1,5 @@
+tensorflow
+Pillow
+pandas
+numpy
+opencv-python
