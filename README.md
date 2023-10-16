@@ -21,7 +21,7 @@ This project demonstrates the use of pre-trained Keras models for image classifi
 2. **Install Dependencies:**
 
    ```bash
-   pip install tensorflow streamlit opencv-python numpy
+   pip install tensorflow streamlit opencv-python numpy pandas Pillow
    ```
 
 3. **Run the Streamlit App:**
