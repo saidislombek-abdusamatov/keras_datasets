@@ -15,13 +15,13 @@ This project demonstrates the use of pre-trained Keras models for image classifi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/keras-datasets-classification.git
+   git clone https://github.com/saidislombek-abdusamatov/keras_datasets.git
    ```
 
 2. **Install Dependencies:**
 
    ```bash
-   pip install tensorflow streamlit opencv-python
+   pip install tensorflow streamlit opencv-python numpy
    ```
 
 3. **Run the Streamlit App:**
